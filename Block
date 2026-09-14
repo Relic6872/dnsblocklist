@@ -53,14 +53,14 @@
 ||wallet.google.com^
 ||paypal.com^
 ||mtalk.google.com^
-||launchdarkly.com^
+
 ||api.ropro.io^
 ||apnews.com^
 ||grindoverhypeapparel.com^
 ||googlezip.net^
 ||ropro.io^
 ||lensfrontend-pa.googleapis.com^
-||optimizationguide-pa.googleapis.com^
+
 ||self.events.data.microsoft.com^
 ||gateway.userstyles.org^
 ||userstylesapi.com^
@@ -85,7 +85,7 @@
 ||login.live.com^
 ||klaviyo.com^
 ||d8nwr32bel57d.cloudfront.net^
-||cloudflare-dns.com^
+
 ||g6.bidbrain.app^
 ||fundingchoicesmessages.google.com^
 ||lens.google.com^
